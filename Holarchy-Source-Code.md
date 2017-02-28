@@ -1,4 +1,4 @@
-#**Holacracy Constitution - Development Version**
+#**Holarchy Source-Code - Development Version**
 
 
 ##Preamble
